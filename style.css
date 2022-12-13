@@ -1,0 +1,26 @@
+/*Creado por Sebas Gibaja Aka Strowblack*/
+body{
+    background-image:url(https://fondosmil.com/fondo/27342.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.contenedorfotos{
+    float: left;
+    border: white 1px solid;
+    background-color: rgb(0, 0, 0);
+}
+.texto{
+    color: white;
+}
+#buscador{
+    background-color: green;
+}
+form{
+    padding-bottom: 10px;
+}
+#pages{
+    text-align: center;
+}
+#pagina{
+    background-color: white;
+}
